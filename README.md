@@ -8,7 +8,7 @@ This repository covers some bioinformatics analysis applied to phosphoproteomics
 </em>
 </div>
 
-
+-------------------------------
 - [Phosphoproteomics](#phosphoproteomics)
 - [Instalation dependencies](#instalation-dependencies)
 - [Notebooks](#notebooks)
