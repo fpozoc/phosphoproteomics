@@ -1,6 +1,6 @@
 # Phosphoproteomics
 
-This repository covers some bioinformatics analysis applied to phosphoproteomics study.
+[![License](https://img.shields.io/github/license/fpozoc/qsplice)](https://github.com/fpozoc/qsplice/blob/master/LICENSE)
 
 <div align="center">
   <img src="img/AF-Q9UN86-F1.png"><br>
