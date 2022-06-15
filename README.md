@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/github/license/fpozoc/qsplice)](https://github.com/fpozoc/qsplice/blob/master/LICENSE)
 
+This repository covers some bioinformatics analysis applied to phosphoproteomics study.
+
 <div align="center">
   <img src="img/AF-Q9UN86-F1.png"><br>
   <em>Ras GTPase-activating protein-binding protein 2 (G3BP2) predicted by AlphaFold2. This protein has several ubiquitination sites annotated in PhosphoSitePlus.
